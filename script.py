@@ -16,7 +16,7 @@ starting_point = ip.latlng
 
 
 """
-ask the user for length willing to travel. Create the circle radius
+ask the user for length willing to travel. Create the circle radius. Test.
 """
 #todo: raise exceptions if not an integer
 radius_question = input("How many miles are you willing to travel: ")
